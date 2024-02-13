@@ -26,7 +26,7 @@ const Project = () => {
     </div>
     <h3 className='text-xl my-4'>Fake News Detection - ML</h3>
     <div className='flex gap-3'>
-      <a href="https://github.com/MandhadapuTeja/fake_news_detection" className='text-cyan-600 bg-gray-800 px-2 py-1 inline-block'>Github</a>
+      <a href="https://github.com/MandhadapuTeja/fake_news_detection" target="_blank" rel="noopener noreferrer" className='text-cyan-600 bg-gray-800 px-2 py-1 inline-block'>Github</a>
     </div>
   </div>
 </SwiperSlide>
@@ -38,7 +38,7 @@ const Project = () => {
     </div>
     <h3 className='text-xl my-4'>Nutri Spectrum</h3>
     <div className='flex gap-3'>
-      <a href="https://github.com/MandhadapuTeja/NutriSpectrum" className='text-cyan-600 bg-gray-800 px-2 py-1 inline-block'>Github</a>
+      <a href="https://github.com/MandhadapuTeja/NutriSpectrum" target="_blank" rel="noopener noreferrer" className='text-cyan-600 bg-gray-800 px-2 py-1 inline-block'>Github</a>
     </div>
   </div>
 </SwiperSlide>
@@ -50,7 +50,7 @@ const Project = () => {
     </div>
     <h3 className='text-xl my-4'>WebJump</h3>
     <div className='flex gap-3'>
-      <a href="https://github.com/MandhadapuTeja/WebJump" className='text-cyan-600 bg-gray-800 px-2 py-1 inline-block'>Github</a>
+      <a href="https://github.com/MandhadapuTeja/WebJump" target="_blank" rel="noopener noreferrer" className='text-cyan-600 bg-gray-800 px-2 py-1 inline-block'>Github</a>
     </div>
   </div>
 </SwiperSlide>
