@@ -1,11 +1,11 @@
 import React from 'react'
-import {Swiper, SwiperSlide} from "swiper/react";
+import {SwiperSlide} from "swiper/react";
 import project1 from "../assets/images/fakenews.png";
 import project2 from "../assets/images/nutipro.png"
 import project3 from "../assets/images/webpro.png"
 import "swiper/css"
 import "swiper/css/pagination";
-import { Pagination, Autoplay } from "swiper/modules";
+// import { Pagination, Autoplay } from "swiper/modules";
 const Project = () => {
   return (
    <section id="projects" className='py-10 text-white'>
