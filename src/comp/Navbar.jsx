@@ -11,7 +11,7 @@ const Navbar = () => {
   ];
   useEffect(() => {
     window.addEventListener("scroll", () => {
-      const nav = document.querySelector("nav");
+      // const nav = document.querySelector("nav");
       window.scrollY > 0 ? setSticky(true) : setSticky(false);
     });
   });
@@ -23,9 +23,7 @@ const Navbar = () => {
     >
       <div className="flex items-center justify-between">
         <div className="mx-7">
-          {/* <h4 className="text-4xl uppercase font-bold text-cyan-600">
-            T<span className="text-white">eja</span>
-          </h4> */}
+          
           <h4 className="text-4xl uppercase font-bold text-cyan-600">
   T<span className={`${sticky ? 'text-black' : 'text-white'}`}>eja</span>
 </h4>

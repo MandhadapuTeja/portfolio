@@ -1,6 +1,6 @@
-import React, {useRef, useEffect } from 'react';
+// import React, {useRef, useEffect } from 'react';
 
-import Typed from 'typed.js';
+// import Typed from 'typed.js';
 
 import hero from '../assets/images/IMG_8545.JPG';
 
