@@ -30,7 +30,7 @@ const Contact = () => {
 
   const contact_info = [
     { logo: 'mail', text: 'tejamandhadapu197@gmail.com' },
-    { logo: 'logo-whatsapp', text: '8977183208' },
+    { logo: 'logo-whatsapp', text: '+91-8977183208' },
     { logo: 'location', text: 'Kurnool' },
   ];
 
