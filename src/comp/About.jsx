@@ -1,6 +1,6 @@
 import React from 'react'
 //import About from './About';
-import pdf from '../assets/resume/Teja_M.pdf';
+import pdf from '../assets/resume/RESUME.pdf';
 const About = () => {
   const info=[
     {text:'Problems Solved',count:'250'},
@@ -19,7 +19,7 @@ const About = () => {
         <div>
         <div className='text-gray-400 my-3 '>
           <p  className='font-normal'>
-            I'm an enthusiastic student of computer science with a talent for using technology to solve issues. Skilled in a variety of programming languages and frameworks, I enjoy keeping up with the most recent developments. I work best in group settings where I can combine my technical expertise with creative problem-solving to produce meaningful results. Whether I'm creating software or investigating new technologies, my motivation is to make a significant difference and to always strive for perfection.
+            I'm an enthusiastic student of mechanical with a talent for using technology to solve issues. Skilled in a variety of programming languages and frameworks, I enjoy keeping up with the most recent developments. I work best in group settings where I can combine my technical expertise with creative problem-solving to produce meaningful results. Whether I'm creating software or investigating new technologies, my motivation is to make a significant difference and to always strive for perfection.
 
           </p>
           <div className='flex mt-10 items-center justify-center gap-7 '>
@@ -34,7 +34,7 @@ const About = () => {
             }
             
           <button className='btn-primary'>
-          <a className="button" href={pdf} download="Teja-Resume.pdf">Download CV</a></button>
+          <a className="button" href={pdf} download="RESUME.pdf">Download CV</a></button>
           
           </div>
           <br/>

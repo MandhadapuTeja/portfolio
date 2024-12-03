@@ -2,7 +2,7 @@
 
 // import Typed from 'typed.js';
 
-import hero from '../assets/images/IMG_8545.JPG';
+import hero from '../assets/images/kamal pic.jpg';
 
 const Hero = () => {
 
@@ -26,10 +26,10 @@ const Hero = () => {
 
   // },[])
   const social_media = [
-    { logo: 'logo-linkedin', link: 'https://www.linkedin.com/in/mandhadaputeja/' },
-    {logo:'logo-github', link:'https://github.com/MandhadapuTeja'},
-    { logo: 'logo-instagram', link: 'https://www.instagram.com/its_me_rockstar_teja_/?hl=en' },
-    { logo: 'logo-facebook', link: 'https://www.facebook.com/teja.mandhadapu' },
+    { logo: 'logo-linkedin', link: 'https://www.linkedin.com/in/dudekula-kamal-6709032b4/' },
+    {logo:'logo-github', link:'https://github.com/kamal042002'},
+    // { logo: 'logo-instagram', link: 'https://www.instagram.com/' },
+    // { logo: 'logo-facebook', link: 'https://www.facebook.com/' },
     
   ];
 
@@ -50,10 +50,10 @@ const Hero = () => {
               Hello!
               <br />
             </span>
-            <span>I'm Teja Mandhadapu</span>
+            <span>I'm Kamal Dudekula</span>
           </h1>
           <h4 id='typed-string' className='md:text-2xl text-lg md:leading-normal leading-5 mt-4 font-bold text-gray-400'>
-          Software Developer
+          Data Analyst
           </h4>
            
           {/* <button className='btn-primary mt-8' onClick={Contact}>Contact Me</button> */}

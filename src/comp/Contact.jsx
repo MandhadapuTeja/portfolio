@@ -29,9 +29,9 @@ const Contact = () => {
   };
 
   const contact_info = [
-    { logo: 'mail', text: 'tejamandhadapu197@gmail.com' },
-    { logo: 'logo-whatsapp', text: '+91-8977183208' },
-    { logo: 'location', text: 'Kurnool' },
+    { logo: 'mail', text: 'dudekulakamal16@gmail.com' },
+    { logo: 'logo-whatsapp', text: '+91-8688297188' },
+    { logo: 'location', text: 'Hyderabad' },
   ];
 
   return (

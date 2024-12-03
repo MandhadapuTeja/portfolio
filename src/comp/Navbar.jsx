@@ -25,7 +25,7 @@ const Navbar = () => {
         <div className="mx-7">
           
           <h4 className="text-4xl uppercase font-bold text-cyan-600">
-  T<span className={`${sticky ? 'text-black' : 'text-white'}`}>eja</span>
+  K<span className={`${sticky ? 'text-black' : 'text-white'}`}>amal</span>
 </h4>
         </div>
         <div
