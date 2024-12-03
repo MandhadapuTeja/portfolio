@@ -1,6 +1,6 @@
 import React from 'react'
 //import About from './About';
-import pdf from '../assets/resume/RESUME.pdf';
+import pdf from '../assets/resume/Kamal Resume.pdf';
 const About = () => {
   const info=[
     {text:'Problems Solved',count:'250'},
